@@ -1,0 +1,25 @@
+{
+    "user": [
+        {
+            "name": "PSH SUPPORT",
+            "description": "Official PSH Support — here to help you with fast, friendly, and reliable assistance.",
+            "iconUrl": "https://i.ibb.co/rf7KpkQG/pshsupport.jpg",
+            "githubUrl": "https://t.me/pshsupport",
+            "bilbilUrl": ""
+        },
+        {
+            "name": "EProxy5",
+            "description": "Provides proxy, Founder Mr. James",
+            "iconUrl": "https://i.ibb.co/TBXdWvZ0/eproxy.jpg",
+            "githubUrl": "https://t.me/killer_bee23",
+            "bilbilUrl": "https://t.me/EProxy5_bot?start=MTEwNDM2LjYyMTE1MDg1Nzg="
+        },
+        {
+            "name": "PSH MODS",
+            "description": "Founder of PSH MODS",
+            "iconUrl": "https://i.ibb.co/v62phwT1/pshmods.jpg",
+            "githubUrl": "https://t.me/ankitsahani07",
+            "bilbilUrl": "https://youtube.com/@pshmods?si=dbTUpNRE8qIlP2ED"
+        }
+    ]
+}
