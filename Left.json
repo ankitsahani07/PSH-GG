@@ -1,6 +1,11 @@
 {
     "user": [
-
+        {
+            "name": "PSH SUPPORT",
+            "description": "Official PSH Support — here to help you with fast, friendly, and reliable assistance.",
+            "iconUrl": "https://i.ibb.co/rf7KpkQG/pshsupport.jpg",
+            "telegramUrl": "https://t.me/pshsupport"        
+        },
         {
             "name": "EProxy5",
             "description": "Provides high-speed, secure proxy services for seamless access.",
@@ -17,3 +22,4 @@
         }
     ]
 }
+
