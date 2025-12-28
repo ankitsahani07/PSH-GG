@@ -4,31 +4,31 @@
             "name": "PSH SUPPORT",
             "description": "Official PSH Support — here to help you with fast, friendly, and reliable assistance.",
             "iconUrl": "https://i.ibb.co/rf7KpkQG/pshsupport.jpg",
-            "telegramUrl": "https://t.me/pshsupport"
+            "telegramprofileUrl": "https://t.me/pshsupport"
         },
         {
             "name": "Utk Neeru Gaming",
             "description": "Dedicated to helping others through selfless, nonprofit service.",
             "iconUrl": "https://i.ibb.co/Qv78P0m8/utk.jpg",
-            "telegramUrl": "https://t.me/MAHADEV_BHAKAT_NEERU"
+            "telegramprofileUrl": "https://t.me/MAHADEV_BHAKAT_NEERU"
         },
         {
             "name": "Imran Pasha",
             "description": "Dedicated to helping others through selfless, nonprofit service.",
             "iconUrl": "https://i.ibb.co/V0hRXtR8/imran.jpg",
-            "telegramUrl": "https://t.me/itz_un_known"
+            "telegramprofileUrl": "https://t.me/itz_un_known"
         },
         {
             "name": "EProxy5",
             "description": "Provides high-speed, secure proxy services for seamless access.",
             "iconUrl": "https://i.ibb.co/TBXdWvZ0/eproxy.jpg",
-            "telegramUrl": "https://t.me/EProxy5_bot?start=MTEwNDM2LjYyMTE1MDg1Nzg="
+            "telegrambotUrl": "https://t.me/EProxy5_bot?start=MTEwNDM2LjYyMTE1MDg1Nzg="
         },
         {
             "name": "PSH MODS",
             "description": "Founder of PSH MODS",
             "iconUrl": "https://i.ibb.co/v62phwT1/pshmods.jpg",
-            "telegramUrl": "https://t.me/ankitsahani07",
+            "telegramprofileUrl": "https://t.me/ankitsahani07",
             "youtbeUrl": "https://youtube.com/@pshmods?si=dbTUpNRE8qIlP2ED"
         }
     ]
